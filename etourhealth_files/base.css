@@ -842,7 +842,7 @@ a.progressCancel{display:block;float:right;width:14px;height:14px;background:url
 a.progressCancel:hover{background-position:0 0;}
 .swfupload{vertical-align:top;}
 .frame,.frame-tab{margin-bottom:10px;border:1px solid #CCC;background:#FFF;}
-.title{padding:0 10px;height:32px;font-size:14px;font-weight:700;line-height:32px;overflow:hidden;}
+.title{/*padding:0 10px;*/height:32px;font-size:14px;font-weight:700;line-height:32px;overflow:hidden;}
 .frame-title,.frametitle,.tab-title{background:#F2F2F2 url(http://115.29.97.50/week_leisure/../images/title.png) repeat-x 0 100%;}
 .frame-1-1-l,.frame-1-1-1-l,.frame-1-1-1-c,.frame-2-1-l,.frame-1-2-l,.frame-3-1-l,.frame-1-3-l{float:left;}
 .frame-1-1-r,.frame-1-1-1-r,.frame-2-1-r,.frame-1-2-r,.frame-3-1-r,.frame-1-3-r{float:right;}
